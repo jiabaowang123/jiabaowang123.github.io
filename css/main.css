@@ -8,11 +8,6 @@
   src: url("../font/SourceHanSansCN-Heavy-2.otf");
 }
 
-@font-face {
-  font-family: "SourceHanSansCN-Medium";
-  src: url("../font/SourceHanSansCN-Medium-2.otf");
-}
-
 a {
   text-decoration: none;
   font-family: "SourceHanSansSC-Normal";
@@ -122,7 +117,6 @@ html {
   font-size: 9px;
   color: #dcdcdc;
   justify-content: center;
-  font-family: "SourceHanSansCN-Medium";
   font-weight: 300;
   position: relative;
   top: -0.16rem;
@@ -314,7 +308,6 @@ html {
   font-size: 0.37rem;
   margin-top: 0.24rem;
   color: #f0f0f0;
-  font-family: "SourceHanSansCN-Medium";
 }
 
 .form > p span {
