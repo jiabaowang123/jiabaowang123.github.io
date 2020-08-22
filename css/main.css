@@ -197,6 +197,7 @@ html {
   color: white;
   outline: none;
   border: none;
+  white-space: nowrap;
 }
 
 .addMethod div.list .online_ask {
@@ -473,6 +474,7 @@ html {
   color: white;
   outline: none;
   border: none;
+  white-space: nowrap;
 }
 
 .search div.list .online_ask {
