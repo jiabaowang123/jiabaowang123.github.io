@@ -187,7 +187,7 @@ html {
   bottom: 6px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 0.4rem;
+  font-size: 12px;
   color: white;
   outline: none;
   border: none;
@@ -382,10 +382,10 @@ html {
   border: 1px solid #bfbfbf;
   border-radius: 3px;
   box-sizing: border-box;
-  font-size: 0.29rem;
   display: block;
   margin: 0 auto;
   padding-left: 0.77rem;
+  font-size: 0.4rem;
 }
 
 .form .phone_box input::placeholder {
